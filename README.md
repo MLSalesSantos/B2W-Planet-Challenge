@@ -7,9 +7,9 @@
      - Listagem
          - Listará todos os planetas cadastrados no banco
      - Busca
-         - Verificará se o planeta buscado consta na base de dados, caso contrário, busca na API pública (SWAPI) e, caso encontre-o, insere automaticamente no banco.
+         - Verificará se o planeta buscado consta na base de dados
      - Adição
-         - Adicionar um novo planeta (desde que conste na API pública) manualmente
+         - Adicionar um novo planeta
      - Remoção
         - Remover um planeta
 
