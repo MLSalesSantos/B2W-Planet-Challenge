@@ -2,8 +2,7 @@
 ### API Challenge Stars Wars B2W
 
 ## Especificando uma base de dados
-- A aplicação, em sua primeira inicialização de todas, estará com a base de dados completamente zerada.
-
+- A aplicação, em sua primeira inicialização estará com a base zerada.
 - O usuário possui as opções:
      - Listagem
          - Listará todos os planetas cadastrados no banco
