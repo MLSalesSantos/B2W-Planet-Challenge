@@ -5,14 +5,14 @@
 - A aplicação, em sua primeira inicialização de todas, estará com a base de dados completamente zerada.
 
 - O usuário possui as opções:
- - Listagem
-   - Listará todos os planetas cadastrados no banco
- - Busca
-  - Verificará se o planeta buscado consta na base de dados, caso contrário, busca na API pública (SWAPI) e, caso encontre-o, insere automaticamente no banco.
-- Adição
-  - Adicionar um novo planeta (desde que conste na API pública) manualmente
-- Remoção
-  - Remover um planeta
+     - Listagem
+         - Listará todos os planetas cadastrados no banco
+     - Busca
+         - Verificará se o planeta buscado consta na base de dados, caso contrário, busca na API pública (SWAPI) e, caso encontre-o, insere automaticamente no banco.
+     - Adição
+         - Adicionar um novo planeta (desde que conste na API pública) manualmente
+     - Remoção
+        - Remover um planeta
 
 #### EndPoints da API :
 
