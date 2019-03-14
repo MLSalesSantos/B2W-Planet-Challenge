@@ -1,16 +1,6 @@
 # B2W-Planet-Challenge
 ### API Challenge Stars Wars B2W
 
-#### Projeto :
- Este projeto faz parte do desafio para vaga de Programador Back-End na empresa B2W
- 
-Desenvolvido em Java SpringBoot e MongoDB
-IDE utilizada IDE Spring Tool Suit (STS)
-
-Após clonar o projeto, fazer Maven Update. 
-
-
-
 ## Especificando uma base de dados
 MongoDB (https://www.mongodb.com/) instalado e rodando, para correta execução da aplicação.
 versão so MongoDB 1.17.0
