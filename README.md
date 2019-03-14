@@ -1,7 +1,6 @@
 # B2W-Planet-Challenge
 ### API Challenge Stars Wars B2W
 
-## Especificando uma base de dados
 - A aplicação, em sua primeira inicialização estará com a base zerada.
 - O usuário possui as opções:
      - Listagem
@@ -12,6 +11,7 @@
          - Adicionar um novo planeta.
      - Remoção
         - Remover um planeta.
+        
 
 #### EndPoints da API :
 
