@@ -1,10 +1,12 @@
 # B2W-Planet-Challenge
 API Challenge Stars Wars B2W
 
-EndPoints da API :
+###EndPoints da API :
 
 <b> Listar os planetas Salvos : </b>
+```
 (GET) http://localhost:8081/planetas
+```
 
 <b> Buscar um planeta por id : </b>
 (GET) http://localhost:8081/planetas/{id}
