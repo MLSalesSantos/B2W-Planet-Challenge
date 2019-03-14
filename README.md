@@ -30,13 +30,13 @@
 - Salvar um determinado planteta :
      - Tipo de Request: POST
        - http://localhost:8081/planetas
-```
-{  
-  "nome": "Terra", 
-  "clima": "tropical", 
-  "terreno": "arenoso" 
-}
-```
+        - ```
+           {  
+              "nome": "Terra", 
+               "clima": "tropical", 
+               "terreno": "arenoso" 
+          }
+          ```
 
 - Remover planeta :
      - Tipo de Request: DELETE
