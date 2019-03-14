@@ -9,15 +9,18 @@ API Challenge Stars Wars B2W
 ```
 
 <b> Buscar um planeta por id : </b>
+```
 (GET) http://localhost:8081/planetas/{id}
+```
 
 <b> Busca um planeta po nome : </b>
+```
 (GET) http://localhost:8081/planetas/{nome}/nome
-
+```
 
 <b> Salvar um determinado planteta : </b>
-(POST) http://localhost:8081/planetas Informando um JSON:
 ```
+(POST) http://localhost:8081/planetas Informando um JSON:
 {  
   "nome": "Terra", 
   "clima": "tropical", 
@@ -25,7 +28,9 @@ API Challenge Stars Wars B2W
 }
 ```
 <b> Remover planeta : </b>
+```
 (DELETE) http://localhost:8081/planetas/{id}
+```
 
 Consumindo a API de terceiro: https://swapi.co/ :
 
