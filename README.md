@@ -29,7 +29,7 @@
      
 - Salvar um determinado planteta :
      - Tipo de Request: POST
-       - http://localhost:8081/planetas Informando um JSON:
+       - http://localhost:8081/planetas
 ```
 {  
   "nome": "Terra", 
