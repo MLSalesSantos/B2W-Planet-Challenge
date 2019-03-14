@@ -50,6 +50,11 @@ Remover um planeta
 (DELETE) http://localhost:8081/planetas/{id}
 ```
 
-Consumindo a API de terceiro: https://swapi.co/ :
+## Autor
 
-Ao salvar planeta, ele se comunica com API do Star Wars, obtem a quantidade de aparições e finaliza o processo de salvar.
+* **Márcio Santos** - *Desenvolvedor*
+
+
+## Licença
+
+Não se aplica.
