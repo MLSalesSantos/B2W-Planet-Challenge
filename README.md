@@ -8,17 +8,17 @@ API Challenge Stars Wars B2W
 (GET) http://localhost:8081/planetas
 ```
 
-* <b> Buscar um planeta por id : </b>
+- <b> Buscar um planeta por id : </b>
 ```
 (GET) http://localhost:8081/planetas/{id}
 ```
 
-<b> Busca um planeta po nome : </b>
+- <b> Busca um planeta po nome : </b>
 ```
 (GET) http://localhost:8081/planetas/{nome}/nome
 ```
 
-<b> Salvar um determinado planteta : </b>
+- <b> Salvar um determinado planteta : </b>
 ```
 (POST) http://localhost:8081/planetas Informando um JSON:
 
@@ -28,7 +28,7 @@ API Challenge Stars Wars B2W
   "terreno": "arenoso" 
 }
 ```
-<b> Remover planeta : </b>
+- <b> Remover planeta : </b>
 ```
 (DELETE) http://localhost:8081/planetas/{id}
 ```
