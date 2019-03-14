@@ -15,17 +15,21 @@
 
 ### EndPoints da API :
 
-- <b> Listar os planetas Salvos : </b>
-          - (GET) http://localhost:8081/planetas
+- Listar os planetas Salvos :
+    - Tipo de Request: GET
+         - http://localhost:8081/planetas
 
-- <b> Buscar um planeta por id : </b>
-          - (GET) http://localhost:8081/planetas/{id}
+- Buscar um planeta por id :
+    - Tipo de Request: GET
+         - http://localhost:8081/planetas/{id}
 
-- <b> Busca um planeta po nome : </b>
-          - (GET) http://localhost:8081/planetas/{nome}/nome
+- Busca um planeta por nome :
+     - Tipo de Request: GET
+          - http://localhost:8081/planetas/{nome}/nome
      
-- <b> Salvar um determinado planteta : </b>
-        - (POST) http://localhost:8081/planetas Informando um JSON:
+- Salvar um determinado planteta :
+     - Tipo de Request: POST
+       - http://localhost:8081/planetas Informando um JSON:
 ```
 {  
   "nome": "Terra", 
@@ -34,6 +38,7 @@
 }
 ```
 
-- <b> Remover planeta : </b>
-           - (DELETE) http://localhost:8081/planetas/{id}
+- Remover planeta :
+     - Tipo de Request: DELETE
+         - http://localhost:8081/planetas/{id}
 
