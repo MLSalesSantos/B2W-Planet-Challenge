@@ -5,13 +5,13 @@
 - A aplicação, em sua primeira inicialização estará com a base zerada.
 - O usuário possui as opções:
      - Listagem
-         - Listará todos os planetas cadastrados no banco
+         - Listará todos os planetas cadastrados no banco.
      - Busca
-         - Verificará se o planeta buscado consta na base de dados
+         - Verificará se o planeta buscado consta na base de dados.
      - Adição
-         - Adicionar um novo planeta
+         - Adicionar um novo planeta.
      - Remoção
-        - Remover um planeta
+        - Remover um planeta.
 
 #### EndPoints da API :
 
@@ -28,6 +28,7 @@
 - <b> Busca um planeta po nome : </b>
    ```
   (GET) http://localhost:8081/planetas/{nome}/nome
+     - Exemplo: http://localhost:8081/planetas/terra/nome
    ```
 
 - <b> Salvar um determinado planteta : </b>
