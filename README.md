@@ -3,17 +3,17 @@ API Challenge Stars Wars B2W
 
 EndPoints da API :
 
-<b>Listar os planetas Salvos : </b>
+<b> Listar os planetas Salvos : </b>
 (GET) http://localhost:8081/planetas
 
-**Negrito** Buscar um planeta por id : 
+<b> Buscar um planeta por id : </b>
 (GET) http://localhost:8081/planetas/{id}
 
-**Negrito** Busca um planeta po nome : 
+<b> Busca um planeta po nome : </b>
 (GET) http://localhost:8081/planetas/{nome}/nome
 
 
-**Negrito** Salvar um determinado planteta : 
+<b> Salvar um determinado planteta : </b>
 (POST) http://localhost:8081/planetas Informando um JSON:
 ```
 {  
@@ -22,7 +22,7 @@ EndPoints da API :
   "terreno": "arenoso" 
 }
 ```
-**Negrito** Remover planeta : 
+<b> Remover planeta : </b>
 (DELETE) http://localhost:8081/planetas/{id}
 
 Consumindo a API de terceiro: https://swapi.co/ :
