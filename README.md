@@ -1,7 +1,7 @@
 # B2W-Planet-Challenge
 API Challenge Stars Wars B2W
 
-###EndPoints da API :
+### EndPoints da API :
 
 <b> Listar os planetas Salvos : </b>
 ```
